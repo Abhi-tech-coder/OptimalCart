@@ -85,7 +85,7 @@ Each row represents a customer with information related to demographics, spendin
 
 OptimalCart uses **unsupervised machine learning** for customer segmentation.
 
-```text
+
 Customer Dataset
        ↓
 Data Preprocessing
@@ -114,7 +114,7 @@ Seaborn
 Jupyter Notebook
 
 
-👨‍💻 Created By
+# 👨‍💻 Created By
 
 # Abhishek Singh
 
