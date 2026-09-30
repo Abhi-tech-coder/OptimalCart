@@ -114,8 +114,8 @@ Seaborn
 Jupyter Notebook
 
 
-👨‍💻 Author
+👨‍💻 Created By
 
-Abhishek Singh
+# Abhishek Singh
 
-⭐ OptimalCart — Turning customer data into meaningful customer segments.
+# ⭐ OptimalCart — Turning customer data into meaningful customer segments.
