@@ -116,6 +116,6 @@ Jupyter Notebook
 
 ## 👨‍💻 Created By
 
-### Abhishek SSingh
+### Abhishek Singh
 
 ## ⭐ OptimalCart — Turning customer data into meaningful customer segments.
